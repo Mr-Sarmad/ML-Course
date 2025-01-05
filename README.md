@@ -1,4 +1,4 @@
-Machine Learning Course - Codalpha
+### Machine Learning Course - CODEALPHA
 Welcome to the repository for the Machine Learning Course conducted by Codalpha. This repository contains all the tasks and exercises completed during the course. The tasks are designed to cover various foundational and advanced concepts in machine learning, with practical implementation in Python.
 
 Course Overview
